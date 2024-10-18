@@ -1,0 +1,5 @@
+numpy
+matplotlib
+nltk
+scikit-learn
+pyspellchecker
