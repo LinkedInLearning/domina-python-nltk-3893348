@@ -71,6 +71,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGPiX3DZu0kMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733392633889?e=2147483647&v=beta&t=WXSHErMwWavYunQ34gH4pOd5bXzdjmjn4eu2Bk9K0Io
 
 [1]: # (End of ES-Instruction ###############################################################################################)
