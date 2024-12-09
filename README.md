@@ -1,13 +1,12 @@
 # Domina Python: NLTK
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Python: NLTK`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Domina el procesamiento de lenguaje natural con Python utilizando NLTK en este curso dirigido a profesionales de la programación, análisis de datos, ingeniería de datos y ciencia de datos. Aprende a resolver problemas específicos en el procesamiento de texto, explorando tres áreas clave: manipulación de texto, análisis y extracción de información, y aprendizaje automático. Adquiere las habilidades necesarias para manejar y analizar grandes volúmenes de texto, optimizando tus proyectos y desarrollando soluciones efectivas en el campo del procesamiento de lenguaje natural.
 
 ## Instrucciones
 
@@ -70,7 +69,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/domina-python-nltk
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGPiX3DZu0kMQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733392633889?e=2147483647&v=beta&t=WXSHErMwWavYunQ34gH4pOd5bXzdjmjn4eu2Bk9K0Io
 
 [1]: # (End of ES-Instruction ###############################################################################################)
